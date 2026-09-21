@@ -25,8 +25,9 @@ Explanation: One possible way is : left -> down -> left -> down -> right -> down
 ```
 
 Program to implement Reverse a String
-Developed by: Ashwin Akash M
-Register Number:212223230024
+Developed by: GOKHULRAJ V
+Register Number:  212223230064
+
 import java.util.*;
 
 public class Main {
